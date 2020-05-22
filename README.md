@@ -1,7 +1,7 @@
 #Preston Lam
 
 This is my data science portfolio. Here I will show my completed projects in chronological order.
-![](ldv.jpg)
+![](https://github.com/prestonlam53/Preston-Portfolio/blob/master/images/ldv.jpg)
 
 ##### Predicting Housing Prices with Zillow Data: April 16th, 2020 (Kaggle Competition)
 - Finished 60th Percentile
