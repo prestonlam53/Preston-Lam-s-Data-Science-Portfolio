@@ -2,6 +2,13 @@
 
 This is my data science portfolio. Here I will show my completed projects in chronological order.
 
+
+##### Predicting Housing Prices with Zillow Data: April 16th, 2020 (Kaggle Competition)
+- Finished 60th Percentile
+- Built regression model to predict housing prices on Zillow given 80 features
+- Regression model consisted of stacked predictions from individually optimized linear regression, XGBoost, and RFR models
+- [Link to Kaggle Notebook:](https://www.kaggle.com/prestonlam/predicting-housing-prices-2-0?scriptVersionId=32145330)
+
 ##### Predicting COVID-19 Worldwide Timeline: April 19th, 2020
 - Combined data from The White House Office of Science and Technology Policy (OSTP) with data from news articles and World Bank
 - Extrapolated recovery data based on sparse data points in order to estimate transmission rate and recovery rate
