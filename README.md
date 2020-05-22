@@ -7,3 +7,4 @@ Predicting COVID-19 Worldwide Timeline: April 19th, 2020
 - Extrapolated recovery data based on sparse data points in order to estimate transmission rate and recovery rate
 - Applied epedimiology's SIR equations to the data to model COVID-19's timeline, predicting the number of infected individuals as well as when infections would peak
 - Modeled scenarios with different transmission rates
+- [Published Article on Medium](https://medium.com/@prestonlam/predicting-covid-19s-global-timeline-1cc4be15bc76)
