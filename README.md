@@ -15,5 +15,7 @@ This is my data science portfolio. Here I will show my completed projects in chr
 - Applied epedimiology's SIR equations to the data to model COVID-19's timeline, predicting the number of infected individuals as well as when infections would peak
 - Modeled scenarios with different transmission rates
 - [Published Article on Medium](https://medium.com/@prestonlam/predicting-covid-19s-global-timeline-1cc4be15bc76)
-/n
+
+
+
 ![](https://github.com/prestonlam53/Preston-Portfolio/blob/master/images/Screen%20Shot%202020-04-07%20at%2012.34.31%20PM.png)
