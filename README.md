@@ -19,3 +19,4 @@ This is my data science portfolio. Here I will show my completed projects in chr
 
 
 ![](https://github.com/prestonlam53/Preston-Portfolio/blob/master/images/Screen%20Shot%202020-04-07%20at%2012.34.31%20PM.png)
+ 
